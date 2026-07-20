@@ -168,6 +168,16 @@ img {
     margin-bottom: 0.7rem;
 }
 
+/* Teams */
+.team {
+    padding: 3rem 0 4rem ;
+}
+
+.team-flex {
+    display: flex;
+    gap: 1.4rem;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
     .header .header-flex,
